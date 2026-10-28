@@ -16,7 +16,7 @@
 
 | Desafío de Pistas 🍌 | Escenario Nocturno / Adivinanza 🌙 |
 | :---: | :---: |
-| ![1captura](https://raw.githubusercontent.5com/marcochandotrabajo-oss/JUGOS-PROPIOS-APK-CON-USO-DE-IA/main/1captura.png) | ![2captura](https://raw.githubusercontent.5com/marcochandotrabajo-oss/JUGOS-PROPIOS-APK-CON-USO-DE-IA/main/2captura.png) |
+| ![1captura](https://raw.githubusercontent.com/marcochandotrabajo-oss/JUGOS-PROPIOS-APK-CON-USO-DE-IA/main/1captura.jpg) | ![2captura](https://raw.githubusercontent.com/marcochandotrabajo-oss/JUGOS-PROPIOS-APK-CON-USO-DE-IA/main/2captura.jpg) |
 | *<subp>Sistema de pistas dinámicas y control de reproducción musical en pantalla.</subp>* | *<subp>Interfaz de adivinanzas con control de vidas restantes y pistas de letras.</subp>* |
 
 ---
