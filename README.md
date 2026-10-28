@@ -1,4 +1,4 @@
-# 🕹️✨ JUGOS-PROPIOS-APK-CON-USO-DE-IA 🚀🎮
+# 🕹️✨ JUEGOS-PROPIOS-APK-CON-USO-DE-IA 🚀🎮
 
 > *"Bienvenido al núcleo arcade definitivo. Código puro, píxeles con neón y desarrollo móvil impulsado por IA."* 👾🔥
 
@@ -10,23 +10,23 @@
 
 ---
 
-## 📸 2. Visuales / Capturas del Juego
+## 📸 2. Capturas del Juego en Acción
 
-> *Sumérgete en la atmósfera cyberpunk y descubre cómo cobra vida cada píxel en la pantalla de tu smartphone.* 📺⚡
+> *Sumérgete en la atmósfera de juego y descubre las pantallas interactivas de adivinanzas y música en plena partida.* 📺⚡
 
-| Pantalla de Título 🌟 | Jugabilidad en Acción ⚔️ | Interfaz y Menús 🎛️ |
-| :---: | :---: | :---: |
-| ![Título](url_imagen_titulo_aqui) | ![Gameplay](url_imagen_gameplay_aqui) | ![Menu](url_imagen_menu_aqui) |
-| *<subp>Estética neón y logotipos oficiales de Mark OC Music.</subp>* | *<subp>Acción arcade fluida optimizada para controles táctiles.</subp>* | *<subp>Diseño UI/UX minimalista, moderno y retro.</subp>* |
+| Desafío de Pistas 🍌 | Escenario Nocturno / Adivinanza 🌙 |
+| :---: | :---: |
+| ![Pista 1 de 4](https://raw.githubusercontent.com/marcochandotrabajo-oss/JUGOS-PROPIOS-APK-CON-USO-DE-IA/main/capturas/juego_pista.jpg) | ![Escenario Nocturno](https://raw.githubusercontent.com/marcochandotrabajo-oss/JUGOS-PROPIOS-APK-CON-USO-DE-IA/main/capturas/juego_noche.jpg) |
+| *<subp>Sistema de pistas dinámicas y control de reproducción musical en pantalla.</subp>* | *<subp>Interfaz de adivinanzas con control de vidas restantes y pistas de letras.</subp>* |
 
 ---
 
 ## ⚡ 3. Características Principales (Features)
 
-* 🕹️ **Jugabilidad Arcade Clásica:** Mecánicas directas, adictivas y diseñadas para partidas rápidas inspiradas en la época dorada de los 8 bits.
+* 🕹️ **Jugabilidad Arcade Clásica:** Mecánicas directas, adictivas y diseñadas para partidas rápidas inspiradas en minijuegos de ingenio y música.
 * 📱 **Optimización Táctil Total:** Controles en pantalla perfectamente calibrados y responsivos para cualquier dispositivo Android.
 * 💻 **Arquitectura Robusta en C# / .NET:** Desarrollado desde cero con lógica limpia, rendimiento optimizado y código estructurado a bajo nivel.
-* 🎧 **Inmersión Sonora Única:** Integración de bandas sonoras originales estilo chiptune y retrowave producidas bajo el sello artístico de **Mark OC Music**.
+* 🎧 **Inmersión Sonora Única:** Integración de pistas musicales reproducibles directamente desde la interfaz del juego bajo el sello artístico de **Mark OC Music**.
 * 🤖 **Soporte y Creación Asistida por IA:** Arquitectura de código, scripts de automatización en Batch y optimizaciones asistidas por inteligencia artificial de vanguardia.
 
 ---
